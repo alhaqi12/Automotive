@@ -2,7 +2,7 @@
   "name-web":"Auto Update",
   "author":"AutoUpdate",
   "remove-comment-html":true,
-  "target":"https://autonews.com/",
+  "target":"https://www.healthline.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"https://autonews.com/",
+      "target":"https://www.healthline.com/",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
